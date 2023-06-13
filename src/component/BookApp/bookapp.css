@@ -1,0 +1,35 @@
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+.book-app{
+    height: 60vh;
+    width: 50vw;
+    background-color: red;
+    
+}
+.woman_doc{
+    height: 50%;
+    width: 30%;
+}
+.law{
+    height: 60vh;
+    width: 50vw;
+    background-color: blue
+
+}
+.lawyer_pic{
+    height: 50%;
+    width: 30%;
+}
+.dev{
+    height: 60vh;
+    width: 50vw;
+    background-color: green
+}
+.dev_pic{
+    height: 50%;
+    width: 30%;
+}
